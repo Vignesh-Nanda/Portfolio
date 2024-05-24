@@ -1,0 +1,42 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/springboot.png"
+    },
+    {
+      "title": "PostgrSql",
+      "imageSrc": "skills/postgresql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Jav",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "skills/flutter.png"
+    }
+  ]

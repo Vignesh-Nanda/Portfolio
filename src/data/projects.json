@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Deciphering Sentiment Analysis on Social Media",
+        "imageSrc": "projects/senti.jpg",
+        "description": "Conducted sentiment analysis on social media using machine learning models like SVM for sentiment classification.",
+        "skills": [
+            "React",
+            "Flask",
+            "Open AI",
+            "Machine learning"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Dairy Supply and Logistics Tracking Application",
+        "imageSrc": "projects/paal.png",
+        "description": "Developed a React Native app for daily diary management with Redux and Firebase integration.",
+        "skills": [
+            "React Native",
+            "Flask",
+            "Firebase"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Admission Platform Application",
+        "imageSrc": "projects/admin.png",
+        "description": "Created a yoga academy admission platform using Vite.js, PostgreSQL, and microservices.",
+        "skills": [
+            "React",
+            "Swagger-UI",
+            "PostgreSQL",
+            "Microservices"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Amazon Music Application Clone",
+        "imageSrc": "projects/amazon.png",
+        "description": "Built a clone of Amazon Music with limited song upload and playback features.",
+        "skills": [
+            "React","JavaScript"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "CRM with Microservices",
+        "imageSrc": "projects/crm.jpg",
+        "description": "Developed a CRM app to track customer and product inquiries, improving customer interaction and feedback.",
+        "skills": [
+            "React",
+            "Springboot",
+            "Microservices"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "CyberSecurity Interrogation Assistance Tool",
+        "imageSrc": "projects/tool.jpg",
+        "description": "Created a WhatsApp bot using Twilio and Flask for victims to directly report cybercrime with proof.",
+        "skills": [
+            "Flask",
+            "Twilio",
+            "Firebase",
+            "Open AI",
+            "ngrok"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
