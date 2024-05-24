@@ -38,7 +38,7 @@ export const Navbar = () => {
             <a href="#contact">Contact</a>
           </li>
           <li>
-      <a href="../../../assets/CV/cv.pdf" className={styles.cvButton} target="_blank">
+      <a href="https://drive.google.com/file/d/1calDTCGuu-5do1WstPsUpEg7ubxWMAof/view?usp=sharing" className={styles.cvButton} target="_blank">
         Download CV
       </a>
       </li>
