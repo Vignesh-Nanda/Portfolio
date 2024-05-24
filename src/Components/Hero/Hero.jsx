@@ -10,7 +10,10 @@ export const Hero = () => {
           Passionate backend developer with frontend expertise, excited to
           contribute to innovative projects and personal growth.
         </p>
-        <a href="mailto:vigneshpond22@gmail.com" className={styles.contactBtn}>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vigneshpond22@gmail.com"
+          className={styles.contactBtn}
+          target="_blank"
+          rel="noopener noreferrer">
           Contact Me
         </a>
       </div>
